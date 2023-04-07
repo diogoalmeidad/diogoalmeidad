@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/diogodiogo/">
     <img src="https://img.shields.io/badge/-diogodiogo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogodiogo/" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="mailto:ealmeidadiogo@gmail.com">
     <img src="https://img.shields.io/badge/-ealmeidadiogo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ealmeidadiogo@gmail.com" alt="Gmail Badge"/>
   </a>
 </div>
