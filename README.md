@@ -5,6 +5,10 @@
 
 👨🏿‍🏫 I am an Adjunct Lecturer for Data Science graduate courses (Master’s and Postgraduates) at Nova IMS and Lead Lecturer at Le Wagon.
 
+📫 How to reach me: ealmeidadiogo@gmail.com
+
+😄 Pronouns: He/Him.
+
 
 <hr></hr>
 
